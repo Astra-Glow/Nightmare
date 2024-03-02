@@ -245,12 +245,6 @@
     },
     "done": true
   },
-  "wunderreich:recipes/decorations/red_stained_glass_slab": {
-    "criteria": {
-      "has_0": "2023-10-09 14:48:23 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2023-10-09 14:59:58 +0800"
@@ -429,42 +423,6 @@
     },
     "done": true
   },
-  "wunderreich:recipes/decorations/green_concrete_stairs": {
-    "criteria": {
-      "has_0": "2023-10-09 21:31:32 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/decorations/green_concrete_wall": {
-    "criteria": {
-      "has_0": "2023-10-09 21:31:32 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/decorations/green_concrete_slab": {
-    "criteria": {
-      "has_0": "2023-10-09 21:31:32 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/decorations/lime_concrete_wall": {
-    "criteria": {
-      "has_0": "2023-10-09 21:31:37 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/decorations/lime_concrete_slab": {
-    "criteria": {
-      "has_0": "2023-10-09 21:31:37 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/decorations/lime_concrete_stairs": {
-    "criteria": {
-      "has_0": "2023-10-09 21:31:37 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2023-10-09 21:36:39 +0800"
@@ -492,12 +450,6 @@
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2023-10-09 22:01:07 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/tools/whisper_imprinter": {
-    "criteria": {
-      "has_0": "2023-10-09 22:01:07 +0800"
     },
     "done": true
   },
@@ -603,12 +555,6 @@
     },
     "done": true
   },
-  "wunderreich:recipes/decorations/gray_stained_glass_slab": {
-    "criteria": {
-      "has_0": "2023-10-09 23:11:12 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-10-09 23:11:12 +0800"
@@ -618,18 +564,6 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-10-09 23:11:25 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/decorations/black_stained_glass_slab": {
-    "criteria": {
-      "has_0": "2023-10-09 23:11:25 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:used_trowel": {
-    "criteria": {
-      "use_trowel": "2023-10-09 23:15:40 +0800"
     },
     "done": true
   },
@@ -773,27 +707,9 @@
     },
     "done": true
   },
-  "wunderreich:recipes/decorations/lime_stained_glass_slab": {
-    "criteria": {
-      "has_0": "2023-10-10 16:54:17 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-10-10 16:54:25 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/decorations/green_stained_glass_slab": {
-    "criteria": {
-      "has_0": "2023-10-10 16:54:25 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/decorations/light_blue_stained_glass_slab": {
-    "criteria": {
-      "has_0": "2023-10-10 16:54:42 +0800"
     },
     "done": true
   },
@@ -809,39 +725,9 @@
     },
     "done": true
   },
-  "wunderreich:recipes/decorations/blue_stained_glass_slab": {
-    "criteria": {
-      "has_0": "2023-10-10 16:55:00 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/decorations/white_concrete_wall": {
-    "criteria": {
-      "has_0": "2023-10-11 21:23:16 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/decorations/white_concrete_slab": {
-    "criteria": {
-      "has_0": "2023-10-11 21:23:16 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/decorations/white_concrete_stairs": {
-    "criteria": {
-      "has_0": "2023-10-11 21:23:16 +0800"
-    },
-    "done": true
-  },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2023-10-11 21:34:20 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/decorations/grass_slab": {
-    "criteria": {
-      "has_0": "2023-10-11 21:35:15 +0800"
     },
     "done": true
   },
@@ -890,12 +776,6 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2023-10-23 21:45:16 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/decorations/spruce_wall": {
-    "criteria": {
-      "has_0": "2023-10-23 21:45:16 +0800"
     },
     "done": true
   },
@@ -950,12 +830,6 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2023-10-23 21:45:31 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/decorations/dark_oak_wall": {
-    "criteria": {
-      "has_0": "2023-10-23 21:45:31 +0800"
     },
     "done": true
   },
@@ -1031,12 +905,6 @@
     },
     "done": true
   },
-  "wunderreich:recipes/tools/whisperer_blank": {
-    "criteria": {
-      "has_0": "2023-10-25 21:36:26 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2023-10-25 21:36:26 +0800"
@@ -1076,12 +944,6 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2023-10-25 21:36:26 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/decorations/glass_slab": {
-    "criteria": {
-      "has_0": "2023-10-25 21:36:26 +0800"
     },
     "done": true
   },
@@ -1190,12 +1052,6 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2023-10-25 22:52:30 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/decorations/sand_slab": {
-    "criteria": {
-      "has_0": "2023-10-25 22:52:30 +0800"
     },
     "done": true
   },
@@ -1361,12 +1217,6 @@
     },
     "done": true
   },
-  "wunderreich:recipes/decorations/white_wool_stairs": {
-    "criteria": {
-      "has_0": "2023-10-30 14:11:11 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2023-10-30 14:11:11 +0800"
@@ -1415,12 +1265,6 @@
     },
     "done": true
   },
-  "wunderreich:recipes/decorations/white_wool_slab": {
-    "criteria": {
-      "has_0": "2023-10-30 14:11:11 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2023-10-30 14:11:11 +0800"
@@ -1448,12 +1292,6 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2023-10-30 14:11:11 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/decorations/white_wool_wall": {
-    "criteria": {
-      "has_0": "2023-10-30 14:11:11 +0800"
     },
     "done": true
   },
@@ -1643,51 +1481,15 @@
     },
     "done": true
   },
-  "wunderreich:recipes/decorations/red_wool_slab": {
-    "criteria": {
-      "has_0": "2024-01-10 23:01:51 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/decorations/red_wool_wall": {
-    "criteria": {
-      "has_0": "2024-01-10 23:01:51 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/decorations/red_wool_stairs": {
-    "criteria": {
-      "has_0": "2024-01-10 23:01:51 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2024-01-10 23:01:51 +0800"
     },
     "done": true
   },
-  "wunderreich:recipes/decorations/light_blue_wool_wall": {
-    "criteria": {
-      "has_0": "2024-01-10 23:20:37 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/decorations/light_blue_wool_slab": {
-    "criteria": {
-      "has_0": "2024-01-10 23:20:37 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
       "has_light_blue_wool": "2024-01-10 23:20:37 +0800"
-    },
-    "done": true
-  },
-  "wunderreich:recipes/decorations/light_blue_wool_stairs": {
-    "criteria": {
-      "has_0": "2024-01-10 23:20:37 +0800"
     },
     "done": true
   },
@@ -1700,6 +1502,168 @@
   "minecraft:recipes/decorations/light_blue_banner": {
     "criteria": {
       "has_light_blue_wool": "2024-01-10 23:20:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-02-13 20:50:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-02-13 20:50:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-02-13 20:50:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-02-13 20:50:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-02-13 20:50:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-02-13 20:50:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-02-13 20:50:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-02-13 20:50:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-02-13 20:50:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-02-13 22:41:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-02-13 22:41:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-02-13 22:41:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-02-13 22:41:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-02-13 22:41:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-02-13 22:41:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-02-13 22:41:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-02-13 22:41:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-02-13 22:41:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-02-13 22:41:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-02-13 22:41:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-02-13 22:41:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-02-13 22:41:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-02-13 22:41:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-02-13 22:41:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-02-13 22:41:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-02-13 22:41:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-02-13 22:41:16 +0800"
     },
     "done": true
   },
